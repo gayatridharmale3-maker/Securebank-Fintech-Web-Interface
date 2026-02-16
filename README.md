@@ -1,18 +1,28 @@
 💳 SecureBank
 ✨ A Responsive FinTech Web Interface Implementation
 
+
 📄 📚 Research Paper Details:
+
 Title:
+
     Design and Development of a Responsive Digital Banking Interface
+    
 Domain:
+
     FinTech | Web-Based Financial Systems | Interface Design
+    
 
 👩‍💻 🎓 Student Information:
+
 Name: Gayatri Chandrashekhar Dharmale
 
 Branch: CSD
+
 Roll No.: 4
+
 Project Type: TA Assignment  
+
 
 🌟 📌 Project Overview :
 
