@@ -1,0 +1,238 @@
+/* Global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5f7ff;
+    color: #333;
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 8%;
+    background: white;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 700;
+    color: #4e73df;
+}
+
+.navbar a {
+    text-decoration: none;
+    margin-left: 25px;
+    color: #333;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+    color: #4e73df;
+}
+
+.login-btn {
+    background: #4e73df;
+    color: white !important;
+    padding: 8px 18px;
+    border-radius: 8px;
+}
+
+/* Hero */
+.hero {
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    color: white;
+    text-align: center;
+    padding: 120px 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+/* Container */
+.container {
+    padding: 60px 8%;
+}
+
+/* Cards */
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    width: 280px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+    transition: 0.3s;
+    text-align: center;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+/* Testimonials */
+.testimonials {
+    background: #eef2ff;
+    padding: 70px 8%;
+    text-align: center;
+}
+
+.testimonial-container {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.testimonial {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    width: 280px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    transition: 0.3s;
+}
+
+.testimonial:hover {
+    transform: translateY(-10px);
+}
+
+/* Pricing */
+.pricing {
+    padding: 70px 8%;
+    text-align: center;
+}
+
+.pricing-container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.price-card {
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    width: 260px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    transition: 0.3s;
+}
+
+.price-card h1 {
+    margin: 15px 0;
+}
+
+.price-card button {
+    background: #4e73df;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.price-card:hover {
+    transform: scale(1.05);
+}
+
+.featured {
+    background: linear-gradient(135deg, #4e73df, #224abe);
+    color: white;
+}
+
+/* FAQ */
+.faq {
+    background: #f9f9f9;
+    padding: 70px 8%;
+}
+
+.faq-item {
+    max-width: 600px;
+    margin: 15px auto;
+}
+
+.faq-item input {
+    display: none;
+}
+
+.faq-item label {
+    display: block;
+    padding: 15px;
+    background: #4e73df;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.faq-content {
+    max-height: 0;
+    overflow: hidden;
+    background: white;
+    transition: 0.4s;
+    padding: 0 15px;
+    border-radius: 0 0 8px 8px;
+}
+
+.faq-item input:checked ~ .faq-content {
+    max-height: 200px;
+    padding: 15px;
+}
+
+/* Contact Form */
+form input, form textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}
+
+.submit-btn {
+    background: #4e73df;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
