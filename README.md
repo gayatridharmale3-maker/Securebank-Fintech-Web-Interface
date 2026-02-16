@@ -1,61 +1,65 @@
-💳 SecureBank
-✨ A Responsive FinTech Web Interface Implementation
+# 💳 **SECUREBANK**
+### A Responsive FinTech Web Interface Implementation
 
+---
 
-📄 📚 Research Paper Details:
+## 📄 Research Paper Details
 
-Title:
+**Title:**  
+Design and Development of a Responsive Digital Banking Interface  
 
-    Design and Development of a Responsive Digital Banking Interface
-    
-Domain:
+**Domain:**  
+FinTech | Web-Based Financial Systems | Interface Design  
 
-    FinTech | Web-Based Financial Systems | Interface Design
-    
+---
 
-👩‍💻 🎓 Student Information:
+## 👩‍💻 Student Information
 
-Name: Gayatri Chandrashekhar Dharmale
+- **Name:** Gayatri Chandrashekhar Dharmale  
+- **Branch:** CSD  
+- **Roll No.:** 4  
+- **Project Type:** TA Assignment  
 
-Branch: CSD
+---
 
-Roll No.: 4
+## 📌 Project Overview
 
-Project Type: TA Assignment  
+**SECUREBANK** is a research-oriented digital banking web interface developed using HTML5 and CSS3.
 
+The project demonstrates a structured and responsive multi-page website including Home, Services, About, and Contact pages. The interface follows modern financial web design standards and organized layout principles.
 
-🌟 📌 Project Overview :
+---
 
-SecureBank is a research-driven digital banking web interface developed using HTML5 and CSS3.
-This project demonstrates a structured and responsive multi-page website consisting of:
-1.Home
-2.Services
-3.About
-4.Contact
-The design focuses on professional layout structuring, clean navigation flow, and modern financial web standards.
+## 🎯 Project Objectives
 
-🎯 🚀 Project Objectives :
+- To analyze digital banking interface structure  
+- To implement a responsive multi-page website  
+- To apply modern FinTech design standards  
+- To create a structured and professional layout  
+- To demonstrate frontend development skills  
 
-✔ Analyze digital banking interface structure
-✔ Implement responsive multi-page development
-✔ Apply modern FinTech design standards
-✔ Create structured and user-friendly layout
-✔ Demonstrate frontend development skills
+---
 
-🛠 💻 Technologies Used:
+## 🛠 Technologies Used
 
-* HTML5
-* CSS3
-* Flexbox
-* Grid Layout
-Responsive Design Techniques
+- HTML5  
+- CSS3  
+- Flexbox  
+- Grid Layout  
+- Responsive Design Techniques  
 
-📂 📑 Pages Included :
+---
 
-🔹 Home Page – Hero section and platform highlights
-🔹 Services Page – Banking services presentation
-🔹 About Page – Concept and design explanation
-🔹 Contact Page – Inquiry form and communication section
+## 📂 Pages Included
 
-🏁 🎉 Conclusion :
-SecureBank represents the practical implementation of research-based digital banking interface concepts through structured and responsive frontend development.
+- Home Page – Hero section and highlights  
+- Services Page – Banking services presentation  
+- About Page – Platform concept and structure  
+- Contact Page – User inquiry form  
+
+---
+
+## 🏁 Conclusion
+
+This project represents the practical implementation of research-based digital banking interface concepts using structured and responsive frontend development techniques.
+
